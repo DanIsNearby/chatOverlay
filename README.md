@@ -1,9 +1,9 @@
 A simple, transparent, always-on-top desktop widget that displays a customizable chat interface in a frameless window. Perfect for streaming overlays, live chat on your desktop, or any other use!
 
-<img width="1912" height="932" alt="image" src="https://github.com/user-attachments/assets/358eaaef-40f8-4f0c-a775-88a5c92d5ea0" />
-<img width="814" height="686" alt="image" src="https://github.com/user-attachments/assets/72388436-08d0-453a-b375-a200019e292f" />
+| ![The chat widget overlay in action – positioned in the bottom-right corner with transparent background](https://github.com/user-attachments/assets/358eaaef-40f8-4f0c-a775-88a5c92d5ea0) | ![Example of a loaded web chat (e.g., Telegram, Discord, Twitch, etc.) inside the transparent overlay window](https://github.com/user-attachments/assets/72388436-08d0-453a-b375-a200019e292f) |
+|:---:|:---:|
 
-This app loads a web-based chat widget directly into a transparent window positioned in the bottom-right corner of your screen.
+This app loads a web-based chat widget directly into a transparent window positioned in the bottom-right corner of your screen that will follow you to all the apps that you open.
 
 Features
 --------
